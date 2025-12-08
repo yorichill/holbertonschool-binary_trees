@@ -36,3 +36,20 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89
 
 ## 📂 Project Structure
 
+binary_trees/
+├── binary_trees.h
+├── ...
+└── README.md
+
+
+## 🔐 GitHub Rules
+
+- There must be **one GitHub repository per group**.
+- If you clone/fork a repository with the same name before the second deadline, you risk receiving a **0% grade**.
+
+---
+
+## 👨‍💻 Authors
+
+- **Thélyaan Dufrénoy**
+- **Thomas Haenel**
