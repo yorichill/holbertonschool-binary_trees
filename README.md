@@ -37,8 +37,11 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89
 ## 📂 Project Structure
 
 binary_trees/
+
 ├── binary_trees.h
+
 ├── ...
+
 └── README.md
 
 
